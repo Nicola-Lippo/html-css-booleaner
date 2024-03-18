@@ -17,13 +17,25 @@ header {
     margin-top: 20px;      
 }
 
-.container{
-    margin-left: 6px;
-    width: 1000px;
+.container1{
+    width: 1200px;
+    margin: auto;
 }
 
 h1 {
     padding-top: 12px;
+}
+
+h4, h5 {
+    color: grey;
+}
+
+#azzurro {
+    color: aqua;
+}
+
+.giallo {
+    background-color: yellow;
 }
 
 .primefoto {
@@ -34,4 +46,37 @@ h1 {
     margin-left: 15px;
     padding: 22px 0;
 }
+
+table {
+    width: 100%;
+    text-align: left;
+    padding-bottom: 20px;
+}
+
+footer {
+    margin-top: 20px;
+}
+
+.pubblicita {
+    width: 300px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);  
+    margin: 20px 0;    
+}
+
+.pubblicita2 {
+    width: 300px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);  
+    margin: 20px 0;    
+}
+
+.white {
+    color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+
+
 

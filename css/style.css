@@ -1,2 +1,37 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
 
+
+
+header {
+    background-image: url(../img/pattern.png);
+    background-color: lightskyblue;
+    height: 100px;
+}
+
+.logo {
+    height: 60px;
+    margin-top: 20px;      
+}
+
+.container{
+    margin-left: 6px;
+    width: 1000px;
+}
+
+h1 {
+    padding-top: 12px;
+}
+
+.primefoto {
+    padding: 15px 0;
+}
+
+.lista {
+    margin-left: 15px;
+    padding: 22px 0;
+}
 

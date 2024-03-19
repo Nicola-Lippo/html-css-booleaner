@@ -9,6 +9,7 @@
 header {
     background-image: url(../img/pattern.png);
     background-color: lightskyblue;
+    background-size: 30%;
     height: 100px;
 }
 
@@ -50,7 +51,21 @@ h4, h5 {
 table {
     width: 100%;
     text-align: left;
-    padding-bottom: 20px;
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: blue;
+    color: white;
+
+}
+
+.odd {
+    background-color: lightblue;    
+}
+
+.lungo {
+    width: 50%;
 }
 
 footer {

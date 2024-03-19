@@ -48,6 +48,10 @@ h4, h5 {
     padding: 22px 0;
 }
 
+.prova p {
+    margin: 20px 0;
+}
+
 table {
     width: 100%;
     text-align: left;
@@ -76,14 +80,16 @@ footer {
     width: 300px;
     height: 200px;
     background-image: url(../img/monitor.jpg);  
-    margin: 20px 0;    
+    margin: 20px 0; 
+    background-repeat: no-repeat;   
 }
 
 .pubblicita2 {
     width: 300px;
     height: 200px;
     background-image: url(../img/graph.jpg);  
-    margin: 20px 0;    
+    margin: 20px 0;  
+    background-repeat: no-repeat;  
 }
 
 .white {
